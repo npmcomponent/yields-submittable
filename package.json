@@ -1,0 +1,12 @@
+{
+  "name": "yields-submittable",
+  "description": "check if the given form element is submittable.",
+  "version": "0.1.0",
+  "keywords": [
+    "submittable",
+    "form"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
